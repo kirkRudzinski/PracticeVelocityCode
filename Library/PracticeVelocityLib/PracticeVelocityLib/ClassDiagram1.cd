@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PracticeVelocityLib.Classes.Diagnose" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAIAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Diagnose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticeVelocityLib.Classes.Register" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAIAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticeVelocityLib.Global.EventBase" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAABEAA=</HashCode>
+      <FileName>Global\BaseClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticeVelocityLib.Global.Event" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAIAAAAAIABAAAAgAAAAQAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Global\BaseClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticeVelocityLib.Global.Constants" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAIAAQAAgAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Global\Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticeVelocityLib.Global.GlobalMethods" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAEAEIAAAAAAAg=</HashCode>
+      <FileName>Global\GlobalMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

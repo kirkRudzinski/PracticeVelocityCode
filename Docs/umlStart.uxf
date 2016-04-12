@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.1.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>10</x>
+      <y>10</y>
+      <w>660</w>
+      <h>310</h>
+    </coordinates>
+    <panel_attributes>Class::BaseEventClass
+-- 
+Attributes
+- _counter: int 
+# maxCountVal {get; set;}: int
+# minCountVal {get; set;}: int
+# Counter {get;set;}: int
++ event baseHandler: EventHandler
+--
+Methods
+# New(): void
++ virtual Add(): void
++ virtual Sub(): void
++ virtual Add(num: int): void
++ virtual  Sub(num: int): void
+# virtual Loop(): void
+# virtual OnNumAdded(e: EventArgs): void
+--
+Responsibilities
+-- Inherited by base event classes.  Will be used as an interface</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>20</x>
+      <y>440</y>
+      <w>490</w>
+      <h>270</h>
+    </coordinates>
+    <panel_attributes>Class::RegisterEvent
+--
+Attributes
+- ConditionalVals: List(of int)
+--
++ New(min: int, max: int, lOfCondVals: List(of int))
++ Add(): void
++ Sub(): void
++ Add(num: int): int
++ Sub(num: int): int
++ AddConditionalValue(num: int): void
++ RemoveConditionalValue(num: int): bool
+# OnNumAdded(e: EventArgs)
+# Loop(): void
+--
+Responsibilities
+-- Register Event Class
+-- Handles all special methods/attributes specific to the "RegisterEvent" class</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>190</x>
+      <y>310</y>
+      <w>30</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;130.0</additional_attributes>
+  </element>
+</diagram>

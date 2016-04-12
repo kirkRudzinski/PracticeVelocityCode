@@ -1,0 +1,10 @@
+e:\users\kirk\documents\visual studio 2015\Projects\PracticeVelocityLib\PracticeVelocityLib\bin\Debug\PracticeVelocityLib.dll
+e:\users\kirk\documents\visual studio 2015\Projects\PracticeVelocityLib\PracticeVelocityLib\bin\Debug\PracticeVelocityLib.pdb
+e:\users\kirk\documents\visual studio 2015\Projects\PracticeVelocityLib\PracticeVelocityLib\obj\Debug\PracticeVelocityLib.dll
+e:\users\kirk\documents\visual studio 2015\Projects\PracticeVelocityLib\PracticeVelocityLib\obj\Debug\PracticeVelocityLib.pdb
+e:\users\kirk\documents\visual studio 2015\Projects\PracticeVelocityLib\PracticeVelocityLib\obj\Debug\PracticeVelocityLib.csprojResolveAssemblyReference.cache
+E:\Users\Kirk\Desktop\Code Exercise\Library\PracticeVelocityLib\PracticeVelocityLib\bin\Debug\PracticeVelocityLib.dll
+E:\Users\Kirk\Desktop\Code Exercise\Library\PracticeVelocityLib\PracticeVelocityLib\bin\Debug\PracticeVelocityLib.pdb
+E:\Users\Kirk\Desktop\Code Exercise\Library\PracticeVelocityLib\PracticeVelocityLib\obj\Debug\PracticeVelocityLib.csprojResolveAssemblyReference.cache
+E:\Users\Kirk\Desktop\Code Exercise\Library\PracticeVelocityLib\PracticeVelocityLib\obj\Debug\PracticeVelocityLib.dll
+E:\Users\Kirk\Desktop\Code Exercise\Library\PracticeVelocityLib\PracticeVelocityLib\obj\Debug\PracticeVelocityLib.pdb

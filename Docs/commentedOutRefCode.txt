@@ -1,0 +1,91 @@
+class BaseReferenceClass : IInterfaceMethods, IEventFired
+    {
+        public event EventHandler OnAddEvent;
+        public event EventHandler OnSubEvent;
+        public int Counter{get;set;}
+        public int MinVal { get; set; }
+        public int MaxVal { get; set; }
+
+        object objectLock = new Object();
+
+        event EventHandler IEventFired.OnAddEvent
+        {
+            add
+            {
+                lock(objectLock)
+                    OnAddEvent += value;
+            }
+            remove
+            {
+                 lock(objectLock)
+                    OnAddEvent -= value;
+            }
+
+        }
+
+        event EventHandler IEventFired.OnSubEvent
+        {
+            add
+            {
+                lock (objectLock)
+                    OnSubEvent += value;
+            }
+            remove
+            {
+                lock (objectLock)
+                   OnSubEvent -= value;
+            }
+
+        }
+
+        void IInterfaceMethods.Add()
+        {
+            Counter += 1;
+            EventHandler handler = OnAddEvent;
+            if (handler != null)
+                handler(this, new EventArgs());
+
+        }
+
+        void IInterfaceMethods.Sub()
+        {
+            if (Counter > MinVal)
+            {
+                Counter -= 1;
+                EventHandler handler = OnSubEvent;
+                if (handler != null)
+                    handler(this, new EventArgs());
+            }            
+        }
+
+        void IInterfaceMethods.Add(int num)
+        {
+            if (Counter + num < MaxVal)
+            {
+                Counter += num;
+                EventHandler handler = OnAddEvent;
+                if (handler != null)
+                    handler(this, new EventArgs());
+            }            
+        }
+
+        void IInterfaceMethods.Sub(int num)
+        {
+            if (Counter - num > MinVal)
+            {
+                Counter -= num;
+                EventHandler handler = OnSubEvent;
+                if (handler != null)
+                    handler(this, new EventArgs());
+            }
+        }
+
+        void IInterfaceMethods.Loop()
+        {
+            for(int i = MinVal; i < MaxVal; i++)
+            {
+                
+            }
+            throw new NotImplementedException();
+        }        
+    }

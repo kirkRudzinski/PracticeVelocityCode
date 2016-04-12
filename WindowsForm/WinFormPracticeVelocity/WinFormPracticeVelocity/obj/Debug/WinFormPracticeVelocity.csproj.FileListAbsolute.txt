@@ -1,0 +1,20 @@
+e:\users\kirk\documents\visual studio 2015\Projects\WinFormPracticeVelocity\WinFormPracticeVelocity\bin\Debug\WinFormPracticeVelocity.exe.config
+e:\users\kirk\documents\visual studio 2015\Projects\WinFormPracticeVelocity\WinFormPracticeVelocity\bin\Debug\WinFormPracticeVelocity.exe
+e:\users\kirk\documents\visual studio 2015\Projects\WinFormPracticeVelocity\WinFormPracticeVelocity\bin\Debug\WinFormPracticeVelocity.pdb
+e:\users\kirk\documents\visual studio 2015\Projects\WinFormPracticeVelocity\WinFormPracticeVelocity\bin\Debug\PracticeVelocityLib.dll
+e:\users\kirk\documents\visual studio 2015\Projects\WinFormPracticeVelocity\WinFormPracticeVelocity\bin\Debug\PracticeVelocityLib.pdb
+e:\users\kirk\documents\visual studio 2015\Projects\WinFormPracticeVelocity\WinFormPracticeVelocity\obj\Debug\WinFormPracticeVelocity.csprojResolveAssemblyReference.cache
+e:\users\kirk\documents\visual studio 2015\Projects\WinFormPracticeVelocity\WinFormPracticeVelocity\obj\Debug\WinFormPracticeVelocity.Properties.Resources.resources
+e:\users\kirk\documents\visual studio 2015\Projects\WinFormPracticeVelocity\WinFormPracticeVelocity\obj\Debug\WinFormPracticeVelocity.csproj.GenerateResource.Cache
+e:\users\kirk\documents\visual studio 2015\Projects\WinFormPracticeVelocity\WinFormPracticeVelocity\obj\Debug\WinFormPracticeVelocity.exe
+e:\users\kirk\documents\visual studio 2015\Projects\WinFormPracticeVelocity\WinFormPracticeVelocity\obj\Debug\WinFormPracticeVelocity.pdb
+E:\Users\Kirk\Documents\Visual Studio 2015\Projects\WinFormPracticeVelocity\WinFormPracticeVelocity\obj\Debug\WinFormPracticeVelocity.MainForm.resources
+E:\Users\Kirk\Desktop\Code Exercise\WindowsForm\WinFormPracticeVelocity\WinFormPracticeVelocity\bin\Debug\WinFormPracticeVelocity.exe.config
+E:\Users\Kirk\Desktop\Code Exercise\WindowsForm\WinFormPracticeVelocity\WinFormPracticeVelocity\obj\Debug\WinFormPracticeVelocity.exe
+E:\Users\Kirk\Desktop\Code Exercise\WindowsForm\WinFormPracticeVelocity\WinFormPracticeVelocity\obj\Debug\WinFormPracticeVelocity.pdb
+E:\Users\Kirk\Desktop\Code Exercise\WindowsForm\WinFormPracticeVelocity\WinFormPracticeVelocity\bin\Debug\WinFormPracticeVelocity.exe
+E:\Users\Kirk\Desktop\Code Exercise\WindowsForm\WinFormPracticeVelocity\WinFormPracticeVelocity\bin\Debug\WinFormPracticeVelocity.pdb
+E:\Users\Kirk\Desktop\Code Exercise\WindowsForm\WinFormPracticeVelocity\WinFormPracticeVelocity\obj\Debug\WinFormPracticeVelocity.csprojResolveAssemblyReference.cache
+E:\Users\Kirk\Desktop\Code Exercise\WindowsForm\WinFormPracticeVelocity\WinFormPracticeVelocity\obj\Debug\WinFormPracticeVelocity.MainForm.resources
+E:\Users\Kirk\Desktop\Code Exercise\WindowsForm\WinFormPracticeVelocity\WinFormPracticeVelocity\obj\Debug\WinFormPracticeVelocity.Properties.Resources.resources
+E:\Users\Kirk\Desktop\Code Exercise\WindowsForm\WinFormPracticeVelocity\WinFormPracticeVelocity\obj\Debug\WinFormPracticeVelocity.csproj.GenerateResource.Cache
